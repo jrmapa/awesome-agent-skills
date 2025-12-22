@@ -1,6 +1,10 @@
 # 🎯 Awesome Agent Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 🚀 **The definitive resource for Agent Skills** - the breakthrough format revolutionizing how AI agents acquire knowledge, execute workflows, and scale their capabilities.
+<div align="center">
+  <img src="assets/social-preview.png" alt="Awesome Agent Skills - The definitive resource for Agent Skills" width="100%">
+</div>
+
+<br>
 
 ## 💡 What Are Agent Skills?
 
