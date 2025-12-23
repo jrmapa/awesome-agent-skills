@@ -101,6 +101,7 @@ This architecture delivers:
 #### 🔥 Top Picks
 - <a href="https://github.com/anthropics/skills" target="_blank" rel="noopener noreferrer">Official collection from Anthropic (document editing, data analysis, etc.)</a>
 - <a href="https://github.com/openai/skills" target="_blank" rel="noopener noreferrer">Official collection from OpenAI (Codex skills catalog)</a>
+- <a href="https://github.com/huggingface/skills" target="_blank" rel="noopener noreferrer">Official collection from Hugging Face (compatible with Claude, Codex, Gemini)</a>
 - <a href="https://github.com/karanb192/awesome-claude-skills" target="_blank" rel="noopener noreferrer">50+ verified skills for Claude Code and Claude.ai</a>
 - <a href="https://github.com/shajith003/awesome-claude-skills" target="_blank" rel="noopener noreferrer">Skills for specialized capabilities</a>
 
@@ -127,6 +128,7 @@ This architecture delivers:
 
 **Frameworks and utilities for building and loading skills.**
 
+- [LangChain Multi-Agent Skills](https://docs.langchain.com/oss/python/langchain/multi-agent/skills) - Official documentation on implementing the skills pattern in LangChain
 - [agentigy/skillcheck](https://github.com/agentigy/skillcheck) - Security scanner for SKILL.md files - detect vulnerabilities before production
 - [openskills](https://github.com/numman-ali/openskills) - Universal skills loader for any AI agent
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Open source agent harness with skills support
