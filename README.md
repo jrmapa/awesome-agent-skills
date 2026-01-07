@@ -71,7 +71,7 @@ This architecture delivers:
 - [The Great AI Agent Configuration Confusion](https://medium.com/@satinath.mondal/the-great-ai-agent-configuration-confusion-agents-md-skill-md-and-whats-next-12345) - Understanding configuration standards (SKILL.md, AGENTS.md)
 
 ### 🎬 Video Introductions
-
+- [Don’t Build Agents, Build Skills Instead (Anthropic)](https://www.youtube.com/watch?v=CEvIs9y1uog) - Why “skills” are the scalable abstraction for agent capability
 - [A better way to build agents? Claude Agent Skills Tutorial + Demo](https://www.youtube.com/watch?v=mxZqEduwyFk) - 11-minute intro: Is Agent Skills the next big standard after MCP?
 - [Claude's new 'Agent Skills'](https://www.youtube.com/watch?v=VRzkafNIdgI) - 1-minute quick overview - installable "mini-brains"
 - [Claude Code Skills just Built me an AI Agent Team (2026 Guide)](https://www.youtube.com/watch?v=OdtGN27LchE) - 27-minute beginner guide to building general AI agents
@@ -113,6 +113,10 @@ This architecture delivers:
 - <a href="https://github.com/hikanner/agent-skills" target="_blank" rel="noopener noreferrer">Curated Claude Agent Skills collection</a>
 - <a href="https://github.com/gradion-ai/freeact-skills" target="_blank" rel="noopener noreferrer">Freeact agent library skills</a>
 
+### 🏪 Skill Marketplaces & Registries
+- [SkillsMP](https://skillsmp.com/) - Agent Skills marketplace for Claude Code/Codex (discover, install, and share skills)
+- [Skillstore](https://skillstore.io/) - Curated, security-audited Agent Skills marketplace for Claude Code and Codex
+
 ## 🏗️ Phase 3: Build & Integrate
 
 **Create your own.** Learn to author `SKILL.md` files and integrate them into your workflows.
@@ -150,9 +154,12 @@ This architecture delivers:
 - <a href="https://github.com/gmickel/sheets-cli" target="_blank" rel="noopener noreferrer">Google Sheets CLI automation</a>
 - <a href="https://github.com/fabioc-aloha/spotify-skill" target="_blank" rel="noopener noreferrer">Spotify API integration</a>
 
-## 🔬 Phase 4: Master & Research
+## 🔬 Phase 4: Benchmarks & Research
 
-**Deepen your expertise.** Explore advanced architectures, security implications, and academic research.
+**Deepen your expertise.** Explore evaluations, security implications, and academic research.
+
+### 📏 Benchmarks & Evaluation
+- <a href="https://github.com/benchflow-ai/SkillsBench" target="_blank" rel="noopener noreferrer">SkillsBench</a> - Benchmark/evaluation framework for measuring Agent Skills performance on real workflows
 
 ### 🧠 Advanced Engineering
 
@@ -163,7 +170,7 @@ This architecture delivers:
 - <a href="https://github.com/jakedahn/pomodoro" target="_blank" rel="noopener noreferrer">System Skill Pattern (skills that remember & improve)</a>
 - <a href="https://github.com/yzfly/Mind-Cloning-Engineering" target="_blank" rel="noopener noreferrer">Mind cloning with LLM skills</a>
 
-### 🛡️ Research & Security
+### 🛡️ Academic Papers
 
 - [Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections](https://arxiv.org/abs/2510.26328) (2025) - Security analysis showing vulnerabilities in Agent Skills markdown files
 - [A survey of agent interoperability protocols](https://arxiv.org/abs/2505.02279) (2025) - Comprehensive look at MCP, Agent Cards, and more
